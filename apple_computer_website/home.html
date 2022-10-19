@@ -1152,7 +1152,7 @@
         <br>
         <br>
 
-        <table width="1300" height="500" align="center" border="1">
+        <table width="1300" height="500" align="center" border="0">
             <tr>
                 <td align="center" width="650" height="500">
                     <p style="font-size: 23px; font-weight: 600; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
@@ -1170,7 +1170,7 @@
                     <br>
                     <br>
                     <br>
-                    <img src="images/accessories_chip.jpg" width="650" height="254">
+                    <img src="images/accessories_chip.jpg" width="650" height="244">
                 </td>
 
                 <td align="center" width="650" height="500">
@@ -1192,13 +1192,35 @@
                     </p>
                     <br>
                     <br>
-                    <img src="images/continuity_computer.jpg" width="650" height="280">
+                    <img src="images/continuity_computer.jpg" width="650" height="304">
                 </td>
             </tr>
         </table>
+        
+    </center>
 
-        <br>
+    <script>
+        var navbar = document.getElementById("navbar");
+        var menu = document.getElementById("menu");
 
+        window.onscroll = function(){
+            if(window.pageYOffset == menu.offsetTop){
+                navbar.classList.add("sticky");
+            }
+            else
+            {
+                navbar.classList.remove("sticky");
+            }
+        }
+    </script>
+
+</body>
+
+
+
+
+<footer >
+    <center>
         <table bgcolor="white" width="1060" height="600" border="0">
             <tr>
                 <td align="left" width="265" height="400"><p style="color: black;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: 13px;"><b>Shop and Learn</b>
@@ -1398,23 +1420,6 @@
                 </p></td>
             </tr>
         </table>
-
     </center>
-
-    <script>
-        var navbar = document.getElementById("navbar");
-        var menu = document.getElementById("menu");
-
-        window.onscroll = function(){
-            if(window.pageYOffset == menu.offsetTop){
-                navbar.classList.add("sticky");
-            }
-            else
-            {
-                navbar.classList.remove("sticky");
-            }
-        }
-    </script>
-
-</body>
+</footer>
 </html>

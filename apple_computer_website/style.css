@@ -133,3 +133,8 @@ nav.sticky ul {
     background-color: #531EB1;
     color: white;
   }
+
+  footer{
+    background-color: black;
+    text-align: center;
+  } 

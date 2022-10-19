@@ -21,12 +21,6 @@ nav {
     text-align: center;
 }
 
-.logo {
-    width: 150px;
-    margin: 20px 0;
-    cursor: pointer;
-}
-
 nav ul {
     background: #000;
     width: 100%;
@@ -124,6 +118,18 @@ nav.sticky ul {
   }
 
   .button6:hover {
+    background-color: #531EB1;
+    color: white;
+  }
+
+  .button7 {
+    background-color: blueviolet; 
+    border: 2px solid blueviolet;
+    padding: 8px 16px;
+    border-radius: 9999px;
+  }
+
+  .button7:hover {
     background-color: #531EB1;
     color: white;
   }

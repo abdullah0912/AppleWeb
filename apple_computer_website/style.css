@@ -130,6 +130,18 @@ nav ul li {
     color: white;
 }
 
+.button9 {
+  background-color: blueviolet; 
+  border: 2px solid blueviolet;
+  padding: 4px 8px;
+  border-radius: 9999px;
+}
+
+.button9:hover {
+  background-color: #531EB1;
+  color: white;
+}
+
 footer{
     background-color: black;
     text-align: center;

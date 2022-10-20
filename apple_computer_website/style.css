@@ -29,28 +29,12 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    margin: 20px 30px;
+    margin: 20px 40px;
     color: #fff;
 }
 
 .text {
     padding: 20px 8%;
-}
-
-nav.sticky {
-    position: flex;
-    top: 0;
-    left: 0;
-    padding: 10px;
-    background: #000;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    transition: padding 1s;
-}
-
-nav.sticky ul {
-    width: auto;
 }
 
 .button {

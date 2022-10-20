@@ -48,89 +48,89 @@ nav ul li {
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-  }
+}
 
-  .button1 {
+.button1 {
     background-color: white; 
     color: black; 
     border: 3px solid black;
     border-radius: 9999px;
-  }
+}
   
-  .button1:hover {
+.button1:hover {
     background-color: black;
     color: white;
-  }
+}
 
-  .button2 {
+.button2 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
     padding: 3px 400px;
     border-radius: 9999px;
     cursor: auto;
-  }
+}
 
-  .button3 {
+.button3 {
     background-color: #817878; 
     border: 2px solid #817878;
     padding: 3px 300px;
     border-radius: 9999px;
     cursor: auto;
-  }
+}
 
-  .button4 {
+.button4 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
     padding: 3px 400px;
     border-radius: 9999px;
     cursor: auto;
-  }
+}
 
-  .button5 {
+.button5 {
     background-color: #817878; 
     border: 2px solid #817878;
     padding: 3px 25px;
     border-radius: 9999px;
     cursor: auto;
-  }
+}
 
-  .button6 {
+.button6 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
     padding: 3px 9px;
     border-radius: 9999px;
-  }
+}
 
-  .button6:hover {
+.button6:hover {
     background-color: #531EB1;
     color: white;
-  }
+}
 
-  .button7 {
+.button7 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
     padding: 8px 16px;
     border-radius: 9999px;
-  }
+}
 
-  .button7:hover {
+.button7:hover {
     background-color: #531EB1;
     color: white;
-  }
+}
 
-  .button8 {
+.button8 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
     padding: 12px 48px;
     border-radius: 9999px;
-  }
+}
 
-  .button8:hover {
+.button8:hover {
     background-color: #531EB1;
     color: white;
-  }
+}
 
-  footer{
+footer{
     background-color: black;
     text-align: center;
-  }
+}

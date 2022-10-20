@@ -146,6 +146,18 @@ nav.sticky ul {
     color: white;
   }
 
+  .button9 {
+    background-color: #817878; 
+    border: 2px solid #817878;
+    padding: 12px 12px;
+    border-radius: 9999px;
+  }
+
+  .button9:hover {
+    background-color: black;
+    color: white;
+  }
+
   footer{
     background-color: black;
     text-align: center;

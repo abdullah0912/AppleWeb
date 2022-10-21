@@ -1,46 +1,8 @@
-* {
-    margin: 0;
-    padding: 0;
-    justify-content: space-between;
-    border: border-box;
-    font-family: 'poppins' sans-serif;
-}
-
-.header {
-    width: 100;
-    height: 100vh;
-    background: url(images/image.png);
-    background-position: center;
-    background-size: cover;
-
-}
-
-nav {
-    width: 100%;
-    padding: 20px 0;
-    text-align: center;
-}
-
-nav ul {
-    background: #000;
-    width: 100%;
-    margin-top: 10px;
-}
-
-nav ul li {
-    display: inline-block;
-    margin: 20px 40px;
-    color: #fff;
-}
-
-.text {
-    padding: 20px 8%;
-}
 
 .button {
     border: none;
     color: white;
-    padding: 15px 80px;
+    padding: 5px 90px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -52,7 +14,7 @@ nav ul li {
 
 .button1 {
     background-color: white; 
-    color: black; 
+    color: black;
     border: 3px solid black;
     border-radius: 9999px;
 }
@@ -97,7 +59,7 @@ nav ul li {
 .button6 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
-    padding: 3px 9px;
+    padding: 0 40px;
     border-radius: 9999px;
 }
 
@@ -109,7 +71,7 @@ nav ul li {
 .button7 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
-    padding: 8px 16px;
+    padding: 0 40px;
     border-radius: 9999px;
 }
 
@@ -121,7 +83,7 @@ nav ul li {
 .button8 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
-    padding: 12px 48px;
+    padding: 0 48px;
     border-radius: 9999px;
 }
 
@@ -130,10 +92,14 @@ nav ul li {
     color: white;
 }
 
+/*
+Macbook Air page buttons
+*/
+
 .button9 {
   background-color: blueviolet; 
   border: 2px solid blueviolet;
-  padding: 4px 8px;
+  padding: 0px 40px;
   border-radius: 9999px;
 }
 

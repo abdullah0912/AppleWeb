@@ -137,3 +137,7 @@ footer{
     background-color: black;
     text-align: center;
 }
+
+.images {
+    border-radius: 25px;
+}

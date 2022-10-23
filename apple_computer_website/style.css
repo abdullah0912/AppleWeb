@@ -116,7 +116,9 @@ Macbook Air page buttons
     text-decoration: none;
 }
 
-.
+.title_text {
+    text-decoration: none;
+}
 
 footer{
     background-color: black;

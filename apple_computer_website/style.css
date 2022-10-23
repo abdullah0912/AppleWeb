@@ -112,6 +112,14 @@ Macbook Air page buttons
   color: white;
 }
 
+.accessories_products {
+    text-decoration: dashed;
+}
+
+.accessories_products my_text:hover{
+    text-decoration-color: blueviolet;
+}
+
 footer{
     background-color: black;
     text-align: center;

@@ -113,11 +113,7 @@ Macbook Air page buttons
 }
 
 .accessories_products {
-    text-decoration: dashed;
-}
-
-. p:hover{
-    color: blueviolet;
+    text-decoration: none;
 }
 
 footer{

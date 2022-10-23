@@ -6,7 +6,7 @@
 .button {
     border: none;
     color: white;
-    padding: 5px 90px;
+    padding: 20px 80px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -63,7 +63,7 @@
 .button6 {
     background-color: blueviolet; 
     border: 2px solid blueviolet;
-    padding: 0 40px;
+    padding: 5 25px;
     border-radius: 9999px;
 }
 

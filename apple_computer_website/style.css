@@ -125,7 +125,7 @@ down
     background-color: blueviolet; 
     border: 2px solid blueviolet;
     padding: 10px 120px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .button10:hover {

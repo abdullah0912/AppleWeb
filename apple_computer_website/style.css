@@ -141,3 +141,7 @@ footer{
 .images {
     border-radius: 25px;
 }
+
+.timcook_image {
+    border-radius: 9999px;
+}

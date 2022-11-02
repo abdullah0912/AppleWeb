@@ -56,12 +56,3 @@ https://user-images.githubusercontent.com/88820048/197557376-fdf36b5f-5afd-423d-
 
 
 ![giphy](https://user-images.githubusercontent.com/88820048/167713029-812de49b-2df0-431d-87b1-fa0bf6060065.gif)
-
-https://dribbble.com/shots/15858300-LaunchGuru-just-landed
-
-https://dribbble.com/shots/17668715-Productivity-Mobile-App-Exploration
-
-https://codecanyon.net/item/fluxstore-the-universal-woocommerce-magento-opencart-mobile-app-by-flutter-framework/24020929?_ga=2.244570117.1273564302.1666887534-1957458129.1666887534
-
-https://codecanyon.net/item/stackfood-multi-restaurant-food-delivery-app-with-laravel-admin-and-restaurant-panel-v10/33571750?_ga=2.242283266.1273564302.1666887534-1957458129.1666887534#
-
